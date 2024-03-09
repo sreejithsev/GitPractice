@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPracticeApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Book from feature b");
 		System.out.println("Gift from feature b");
 		System.out.println("Message from feature b");
 		SpringApplication.run(GitPracticeApplication.class, args);
