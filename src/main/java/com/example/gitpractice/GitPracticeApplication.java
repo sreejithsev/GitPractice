@@ -8,6 +8,7 @@ public class GitPracticeApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Book from feature b");
+		System.out.println("Gift from feature a");
 		System.out.println("Gift from feature b");
 		System.out.println("Message from feature b");
 		System.out.println("Car from feature b");
