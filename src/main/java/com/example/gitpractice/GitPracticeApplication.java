@@ -18,6 +18,7 @@ public class GitPracticeApplication {
 		System.out.println("Energy from feature b");
 		SpringApplication.run(GitPracticeApplication.class, args);
         System.out.println("Feature/A(C1,C2)");
+        System.out.println("Feature/B(C1)");
 	}
 
 }
