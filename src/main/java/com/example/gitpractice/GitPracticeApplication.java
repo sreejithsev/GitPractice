@@ -10,6 +10,7 @@ public class GitPracticeApplication {
 		System.out.println("Book from feature b");
 		System.out.println("Gift from feature b");
 		System.out.println("Message from feature b");
+		System.out.println("Car from feature b");
 		SpringApplication.run(GitPracticeApplication.class, args);
         System.out.println("Feature/A(C1,C2)");
 	}
