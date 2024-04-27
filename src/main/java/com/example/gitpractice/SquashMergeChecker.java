@@ -15,5 +15,6 @@ public class SquashMergeChecker {
         System.out.println("Feature LEC message 3");
         System.out.println("Feature LEC message 4");
         System.out.println("Feature LEC message 5");
+        System.out.println("Feature LEC message 6");
     }
 }
